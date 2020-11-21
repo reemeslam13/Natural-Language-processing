@@ -6,4 +6,4 @@ determine the class (neutral, positive, negative) of new texts (test data that w
 model) with maximum accuracy.
 
 # How it runs ?
-Run it on jupyter python. You will also find description for the project please check Sentiment Analysis Project_27955.pdf file for more details.
+Run the python file on jupyter python and dont forget to add the data. You will also find description for the project please check Sentiment Analysis Project_27955.pdf file for more details.
